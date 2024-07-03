@@ -14,9 +14,13 @@ Backend Logic :
 Once the application is running, use the CLI (implemented in main.py) to interact with the auction system. Here are the available commands:
 
 ADD_MEMBER: Add a new member with their details.
+
 ADD_EVENT: Add a new event with a prize.
+
 REGISTER_MEMBER: Register a member for an event.
+
 SUBMIT_BID: Submit bids for an event.
+
 DECLARE_WINNER: Declare the winner of an event based on the lowest bid.
 
 # Sample Usage
