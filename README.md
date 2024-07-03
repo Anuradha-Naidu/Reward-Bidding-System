@@ -40,7 +40,7 @@ Enter command (ADD_MEMBER, ADD_EVENT, REGISTER_MEMBER, SUBMIT_BID, DECLARE_WINNE
 
 # Run Locally
 ```bash
-git clone
+git clone https://github.com/Anuradha-Naidu/Reward-Bidding-System.git
 ```
 
 All four files are in same directory 
